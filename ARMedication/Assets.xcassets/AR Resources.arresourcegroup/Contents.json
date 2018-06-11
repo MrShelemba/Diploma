@@ -1,0 +1,29 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "resources" : [
+    {
+      "filename" : "Альфарекін.arreferenceimage"
+    },
+    {
+      "filename" : "Анальгін-Дарниця.arreferenceimage"
+    },
+    {
+      "filename" : "Димедрол-Дарниця.arreferenceimage"
+    },
+    {
+      "filename" : "Димедрол.arreferenceimage"
+    },
+    {
+      "filename" : "Йод активний ЕлітФарм.arreferenceimage"
+    },
+    {
+      "filename" : "Йодид-Фармак.arreferenceimage"
+    },
+    {
+      "filename" : "Папаверину гідрохлорид.arreferenceimage"
+    }
+  ]
+}

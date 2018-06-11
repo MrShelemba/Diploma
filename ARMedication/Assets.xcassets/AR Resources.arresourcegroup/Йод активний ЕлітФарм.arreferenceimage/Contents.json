@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "Йод активний ЕлітФарм.jpg"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "width" : 9.8000000000000007,
+    "unit" : "centimeters"
+  }
+}
